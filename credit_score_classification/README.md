@@ -13,7 +13,7 @@ Credit scores play a vital role in determining loan eligibility and interest rat
 
 - **Python Version:** 3.12.3  
 - **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, pickle, streamlit  
-- **Dataset:** [Kaggle Credit Score Dataset](link-to-dataset)  
+- **Dataset:** [Credit Score Dataset](https://github.com/theguyoliver/machine_learning/blob/main/credit_score_classification/data/credit_score.csv)  
 
 ---
 
