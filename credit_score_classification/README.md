@@ -13,7 +13,7 @@ Credit scores play a vital role in determining loan eligibility and interest rat
 
 - **Python Version:** 3.12.3  
 - **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, pickle, streamlit  
-- **Dataset:** [Kaggle Credit Score Dataset](link-to-dataset)  
+- **Dataset:** [Credit Score Dataset](https://github.com/theguyoliver/machine_learning/blob/main/credit_score_classification/data/credit_score.csv)  
 
 ---
 
@@ -23,9 +23,9 @@ Key insights included:
 - Strong correlation between homeownership and credit scores.  
 - Annual income was a significant predictor of creditworthiness.  
 
-![age vs credit score](link-to-eda-plot)
-![gender vs credit score]( l)
-![home ownership vs credit score]( )
+![age vs credit score](https://github.com/theguyoliver/machine_learning/blob/main/credit_score_classification/images/age_vs_credit_score.png)
+![gender vs credit score](https://github.com/theguyoliver/machine_learning/blob/main/credit_score_classification/images/gender_vs_credit_score.png)
+![home ownership vs credit score](https://github.com/theguyoliver/machine_learning/blob/main/credit_score_classification/images/home_ownership_vs_credit_score.png)
 
 ---
 
