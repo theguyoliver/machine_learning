@@ -1,5 +1,7 @@
 # US Home Price Prediction: Project Overview
 
+![Web App UI](https://github.com/theguyoliver/machine_learning/blob/main/us_home_price_prediction/image/webui.png)
+
 Accurately predicting home prices is essential for real estate professionals and financial institutions. This project leverages machine learning to create a robust tool for forecasting home prices in the United States, ensuring better decision-making and improved resource allocation.
 
 ## Key Features
